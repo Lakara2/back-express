@@ -1,6 +1,4 @@
-# OTME Material Management API
-
-API to manage military equipment for the Organization of European Military Treaties (OTME).
+# Material Management API.
 
 ## Endpoints
 
